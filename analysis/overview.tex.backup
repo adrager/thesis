@@ -1,0 +1,36 @@
+\chapter{Searches for Supersymmetry}
+\label{sec:SUSY_Search_Intro}
+\todo Introduce search variables motivate search bins
+\todo Talk about x-section at various \CM motivate here search at 8 and 13 TeV. Define differences
+
+\chapter{Standard Model Backgrounds \& Reduction Cuts}
+\label{sec:SM_BackGrounds}
+\todo define and plot of all backgrounds with a brief discribtion of each background method
+\section{QCD Reduction via angluar separation of \met and hadronic energy}
+
+\section{Definition of electorn, muons and isolated-tracks to reduce Standard Model Backgounds}
+\label{sec:Lepton_Definition_Study}
+
+\chapter{Standard Model Background from W decays with unidentified electrons \& muons}
+\label{sec:Lost_Lepton_Main}
+
+\section{Composition of Standard Model Processes with unidentified electrons \& muons}
+\label{sec:Lost_Lepton_Composition}
+\todo Plots with lost-lepton contribution to baseline in search variables and search bins
+
+\section{Estimation method strategies}
+\todo Introduce different thecnics of estimating lost-lepton background using mc and finally classical lost-lepton method
+
+\section{Single lepton control sampel}
+\label{sec:Lost_Lepton_CS}
+\todo put here plots of control sample in various variables. Talk about contribution from different processes qcd etc. intorudce need for \mt cut.
+talk about the need of correcting for contamination from qcd etc. what variables. 1D and ultimativ the 2D used plots.
+
+\section{Electron \& muon detector efficiencies}
+\label{sec:Lost_Lepton_Efficiencies_Main}
+\subsection{Determination Strategies}
+\subsubsection{Simulated Events from Search Region using generator truth information}
+\label{sec:Lost_Lepton_Efficiencies_Truth}
+\subsubsection{Simulated and Data Events using a Tag \& Probe}
+\label{sec:Lost_Lepton_Tag_Probe}
+
